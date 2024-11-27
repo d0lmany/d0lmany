@@ -1,4 +1,4 @@
-## welcome to d0lmany ![hh](lol.svg)
+## welcome to d0lmany <img src="lol.svg" width="30" height="30">
 I'm a college student and I have a lot of ideas, but not a lot of time to implement them. My goal is to get fabulously rich and not deny myself anything, and of course I also like coding.  
 ### my stack and tools:
 - **frontend**: HTML, CSS, JS, Vue.js 3, jQuery, Tailwind CSS, Bootstrap 5
