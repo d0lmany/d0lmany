@@ -13,6 +13,9 @@ pls participate in the fulfillment of my dream//
 - **StudWork** - student project: an aggregator for finding a place for academic practice and internship
 - **web_legacy** - my old websites (not tracked)
 
+## magnum opus
+- still not created
+
 ### me
 [my website](https://d0lmany.netlify.app) 
 [my email](mailto:d0lmany.is.go@gmail.com)
