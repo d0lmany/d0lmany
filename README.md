@@ -8,6 +8,7 @@ pls participate in the fulfillment of my dream//
 - **other**: Git, OOP
   
 ### my projects
+- **basic** - simple projects for edu and enjoy
 - **utilities** - little things that simplify my life a little 
 - **StudWork** - student project: an aggregator for finding a place for academic practice and internship
 - **web_legacy** - my old websites (not tracked)
