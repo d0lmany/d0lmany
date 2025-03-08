@@ -8,18 +8,20 @@ pls participate in the fulfillment of my dream//
 - **other**: Git, OOP
   
 ### my projects
-- **Hedera DE** - desktop environment for Windows devices
+- **useful** - things that simplify my life
 - **basic** - simple projects for edu and enjoy
-- **utilities** - little things that simplify my life a little 
 - **StudWork** - student project: an aggregator for finding a place for academic practice and internship
 - **web_legacy** - my old websites (not tracked)
 
-## magnum opus
+### cemetery of projects
+- **Hedera DE** - desktop environment for Windows devices
+
+### magnum opus
 - still not created
 
 ### me
 [my website](https://d0lmany.netlify.app) 
-[my email](mailto:d0lmany.is.go@gmail.com)
+[my email](mailto:d0lmany.is.god@gmail.com)
 [donate me](https://www.donationalerts.com/r/d0lmany)
 
 ***
