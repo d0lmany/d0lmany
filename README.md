@@ -1,4 +1,4 @@
-## welcome to d0lmany <img src="lol.svg" width="30" height="30">
+## welcome to d0lmany <img src="lol.svg" width="25" height="25">
 I'm a college student and I have a lot of ideas, but not a lot of time to implement them. My goal is to get fabulously rich and not deny myself anything, and of course I also like coding.  
 pls participate in the fulfillment of my dream//  
 ### my stack and tools:
