@@ -11,7 +11,6 @@ pls participate in the fulfillment of my dream//
 - **useful** - things that simplify my life
 - **basic** - simple projects for edu and enjoy
 - **StudWork** - student project: an aggregator for finding a place for academic practice and internship
-- **web_legacy** - my old websites (not tracked)
 
 ### cemetery of projects
 - **Hedera DE** - desktop environment for Windows devices
