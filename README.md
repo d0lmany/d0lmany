@@ -9,7 +9,6 @@ pls participate in the fulfillment of my dream//
   
 ### my projects
 - **useful** - things that simplify my life
-- **basic** - simple projects for edu and enjoy
 - **StudWork** - student project: an aggregator for finding a place for academic practice and internship
 
 ### cemetery of projects
