@@ -25,6 +25,7 @@ I love making all kinds of useful and practical things. When I'm not busy, I spe
 
 ## Top projects 🪷
 ![TEWA](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=TEWA&theme=bear)
+![machinedreams](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=machinedreams&theme=bear)
 ![alicepractice](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=alicepractice&theme=bear)
 <hr>
 
