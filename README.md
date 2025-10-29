@@ -1,43 +1,73 @@
-## hello, friend, i'm d0lmany 💜
-I'm Yusup, Web and desktop developer from Russia.<br>
-I love making all kinds of useful and practical things. When I'm not busy, I spend time developing, designing, serials, and self-development.
+## hello world! 💜
+I'm **Yusup**, a web and desktop developer from Russia.
+Driven by curiosity and passion for creation
 
-## Technologies 💻
-![Vue.js 3](https://img.shields.io/badge/Vue.js_3-1f2023?style=for-the-badge&logo=vue.js)
-![Vue Router](https://img.shields.io/badge/Vue_Router-1f2023?style=for-the-badge&logo=vue.js)
-![Vite](https://img.shields.io/badge/Vite-1f2023?style=for-the-badge&logo=vite)
-![Laravel 12](https://img.shields.io/badge/Laravel_12-1f2023?style=for-the-badge&logo=Laravel)
-![PHP](https://img.shields.io/badge/PHP-1f2023?style=for-the-badge&logo=PHP)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2023?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1f2023?style=for-the-badge&logo=Bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1f2023?style=for-the-badge&logo=TailwindCSS)
-![Node.js](https://img.shields.io/badge/Node.js-1f2023?style=for-the-badge&logo=node.js)
-![C#](https://img.shields.io/badge/C%23-1f2023?style=for-the-badge&logo=dotnet)
-![Rust](https://img.shields.io/badge/rust-1f2023?style=for-the-badge&logo=rust)
-![C](https://img.shields.io/badge/c-1f2023?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/c++-1f2023?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-1f2023?style=for-the-badge&logo=Python)
-![HTML5](https://img.shields.io/badge/HTML5-1f2023?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1f2023?style=for-the-badge&logo=css&logoColor=blue)
-![Figma](https://img.shields.io/badge/Figma-1f2023?style=for-the-badge&logo=figma)
-![Draw.io](https://img.shields.io/badge/Draw.io-1f2023?style=for-the-badge&logo=diagrams.net)
-![Linux](https://img.shields.io/badge/Linux-1f2023?style=for-the-badge&logo=Linux)
-![MySQL](https://img.shields.io/badge/MySQL-1f2023?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-1f2023?style=for-the-badge&logo=MariaDB)
-![Obsidian](https://img.shields.io/badge/Obsidian-1f2023?style=for-the-badge&logo=Obsidian&logoColor=7C3AED)
-![Git](https://img.shields.io/badge/Git-1f2023?style=for-the-badge&logo=Git)
-![Codium](https://img.shields.io/badge/Codium-1f2023?style=for-the-badge&logo=vsCodium)
+## my projects 🪷
+![TEWA](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=TEWA&theme=tokyonight)
 
-## Top projects 🪷
-![TEWA](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=TEWA&theme=bear)
-![machinedreams](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=machinedreams&theme=bear)
-![alicepractice](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=alicepractice&theme=bear)
-<hr>
+![machinedreams](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=machinedreams&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lmany&layout=compact&theme=bear) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=d0lmany&show_icons=true&theme=bear)
+![alicepractice](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=alicepractice&theme=tokyonight)
 
-## Contact me 📱
-[![Telegram](https://img.shields.io/badge/Telegram-1f2023?style=for-the-badge&logo=Telegram)](https://t.me/d0lmany)
-[![Email](https://img.shields.io/badge/Email-1f2023?style=for-the-badge&logo=gmail)](mailto:d0lmany.is.god@gmail.com)
-[![Telegram](https://img.shields.io/badge/My_site-1f2023?style=for-the-badge&logo=vercel)](https://d0lmany.vercel.app/)
-[![Donate me](https://img.shields.io/badge/Donate_Me-1f2023?style=for-the-badge)](https://donationalerts.com/r/d0lmany)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lmany&layout=compact&theme=tokyonight)
+
+## technologies and skills 📱
+<div class="flex">
+    <div class="badge" style="background: rgb(17, 130, 79)">Vue.js 3</div>
+    <div class="badge" style="background: rgb(184, 24, 10)">Laravel 12</div>
+    <div class="badge" style="background: rgb(79, 93, 149)">PHP</div>
+    <div class="badge" style="background: rgb(241, 224, 90); color: #1e1e1e">JavaScript</div>
+    <div class="badge" style="background: #712cf9">Bootstrap</div>
+    <div class="badge" style="background: rgb(0, 188, 255); color: #1e1e1e">TailwindCSS</div>
+    <div class="badge" style="background:rgb(81, 23, 198)">C#</div>
+    <div class="badge" style="background: #2b5b84">Python</div>
+    <div class="badge" style="background: rgb(102, 51, 153)">CSS3</div>
+    <div class="badge" style="background: rgb(183, 56, 25)">HTML5</div>
+</div>
+
+---
+
+<div class="flex">
+    <div class="badge" style="background: white; color: #1e1e1e">Figma</div>
+    <div class="badge" style="background: #f08705; color: #1e1e1e">Draw.io</div>
+    <div class="badge" style="background: #1e1e1e">Linux</div>
+    <div class="badge" style="background: #db4109; color: #1e1e1e">MS Office</div>
+    <div class="badge" style="background:rgb(34, 139, 199)">VS Code</div>
+    <div class="badge" style="background: #1e1e1e">Git</div>
+</div>
+
+## contact me ✉️
+<div class="flex"  style="gap: 1rem; justify-content: center;">
+
+[![Telegram](./assets/tg.svg)](https://t.me/d0lmany)
+
+[![Email](./assets/email.svg)](mailto:d0lmany.is.god@gmail.com)
+
+[![My Site](./assets/site.svg)](https://d0lmany.vercel.app/)
+
+[![Donate me](./assets/donate.svg)](https://donationalerts.com/r/d0lmany)
+
+</div>
+
+<style>
+.flex {
+    display: flex;
+    gap: .5rem 1rem;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.badge {
+    display: inline-block;
+    width: fit-content;
+    border-radius: .6rem;
+    padding: .25rem .5rem;
+    font-weight: bold;
+    font-size: 0.9em;
+    transition: transform 0.2s ease;
+    box-shadow: inset 0 0 2px #1e1e1e;
+    cursor: pointer;
+}
+.badge:hover {
+    transform: translateY(-2px);
+}
+</style>
