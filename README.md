@@ -12,26 +12,25 @@ Driven by curiosity and passion for creation
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lmany&layout=compact&theme=tokyonight)
 
 ## technologies and skills 📱
-- frontend
-    - Vue.js 3
-    - Bootstrap
-    - TailwindCSS
-    - JavaScript
-    - CSS3
-    - HTML5
-- backend
-    - Laravel 12
-    - PHP
-- desktop
-    - C#
-    - Python
-- tools
-    - Figma
-    - Draw.io
-    - Linux
-    - MS Office
-    - VS Code
-    - Git
+![Vue.js 3](./assets/vue.svg)
+![Bootstrap 5](./assets/bootstrap.svg)
+![TailwindCSS](./assets/tailwind.svg)
+![JS](./assets/js.svg)
+![CSS3](./assets/css.svg)
+![HTML5](./assets/html.svg)
+
+![Laravel 12](./assets/laravel.svg)
+![PHP](./assets/php.svg)
+
+![C#](./assets/cs.svg)
+![C](./assets/c.svg)
+![Rust](./assets/rust.svg)
+![Python](./assets/py.svg)
+
+![Figma](./assets/figma.svg)
+![Draw.io](./assets/drawio.svg)
+![Linux](./assets/linux.svg)
+![Git](./assets/git.svg)
 
 ## contact me ✉️
 <div class="center">
