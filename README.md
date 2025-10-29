@@ -34,14 +34,11 @@ Driven by curiosity and passion for creation
     - Git
 
 ## contact me ✉️
-<div class="center"">
+<div class="center">
 
 [![Telegram](./assets/tg.svg)](https://t.me/d0lmany)
-
 [![Email](./assets/email.svg)](mailto:d0lmany.is.god@gmail.com)
-
 [![My Site](./assets/site.svg)](https://d0lmany.vercel.app/)
-
 [![Donate me](./assets/donate.svg)](https://donationalerts.com/r/d0lmany)
 
 </div>
