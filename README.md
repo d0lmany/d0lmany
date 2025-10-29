@@ -4,11 +4,9 @@ Driven by curiosity and passion for creation
 
 ## my projects 🪷
 ![TEWA](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=TEWA&theme=tokyonight)
-
 ![machinedreams](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=machinedreams&theme=tokyonight)
-
 ![alicepractice](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=alicepractice&theme=tokyonight)
-
+![StudWork](https://github-readme-stats.vercel.app/api/pin/?username=d0lmany&repo=StudWork&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lmany&layout=compact&theme=tokyonight)
 
 ## technologies and skills 📱
